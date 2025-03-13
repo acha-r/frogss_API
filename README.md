@@ -21,7 +21,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone [<your-repo-url>](https://github.com/acha-r/frogss_API)
    cd frogss_API
    ```
 
